@@ -7,10 +7,7 @@ NiryoStudio should be installed beforehand, as it will be used to create the "wo
 Refer to the following link of Niryo Robot's documentation: [NED2 Documentation](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/vision/image_processing_overview.html) 
 
 
-## Demo Video
-Click on the image below to watch the youtube video of the hardware
-
-[![Watch the video](https://github.com/EhtishamAshraf/niryoRobot-OpenCV-ColorSorting/blob/main/1-Arm.jpeg)](https://youtu.be/g6igqMyEAQ4)
+[!(https://github.com/EhtishamAshraf/niryoRobot-OpenCV-ColorSorting/blob/main/1-Arm.jpeg)]
 
 ## Hardware Setup
 The arm is equipped with a camera, and raspberry pi, and servo motors. The conveyor belt has an IR sensor which is used to detect the object's presence in the workspace.
